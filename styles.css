@@ -1,0 +1,30 @@
+body {
+height: 100vh;
+background-size: cover;
+}
+
+.main {
+    height: 75%;
+    width: 75%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.neutral {
+    display: block;
+}
+
+.off,.on {
+    display: none;
+}
+
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
